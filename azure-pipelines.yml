@@ -1,8 +1,7 @@
 # trigger:
 # - master
 
-pool:
-  vmImage: jeremyagentpool
+pool: jeremyagentpool
 
 variables:
   subscription: azure service connection
