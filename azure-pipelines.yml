@@ -2,7 +2,7 @@
 # - master
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: jeremyagentpool
 
 variables:
   subscription: azure service connection
